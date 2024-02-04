@@ -1,9 +1,9 @@
 [package]
-authors = ["Xuanwo <github@xuanwo.io>>"]
+authors = ["sundy-li <sundyli@apache.org>>"]
 categories = ["command-line-utilities"]
 description = "Replace with description"
 documentation = "https://docs.rs/formwork"
-repository = "https://github.com/Xuanwo/formwork"
+repository = "https://github.com/sundy-li/formwork"
 edition = "2021"
 license = "Apache-2.0"
 name = "formwork"

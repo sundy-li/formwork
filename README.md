@@ -1,7 +1,7 @@
 # formwork &emsp; [![Build Status]][actions] [![Latest Version]][crates.io]
 
-[Build Status]: https://img.shields.io/github/actions/workflow/status/Xuanwo/formwork/ci.yml
-[actions]: https://github.com/Xuanwo/formwork/actions?query=branch%3Amain
+[Build Status]: https://img.shields.io/github/actions/workflow/status/sundy-li/formwork/ci.yml
+[actions]: https://github.com/sundy-li/formwork/actions?query=branch%3Amain
 [Latest Version]: https://img.shields.io/crates/v/formwork.svg
 [crates.io]: https://crates.io/crates/formwork
 
@@ -13,8 +13,8 @@
 
 Replace all placeholder with valid values, for example:
 
-- `Xuanwo` => github login
-- `github@xuanwo.io` => email
+- `sundy-li` => github login
+- `sundyli@apache.org` => email
 - `formwork` => crate name
 
 ```rust
@@ -27,7 +27,7 @@ Check out the [CONTRIBUTING.md](./CONTRIBUTING.md) guide for more details on get
 
 ## Getting help
 
-Submit [issues](https://github.com/Xuanwo/formwork/issues/new/choose) for bug report or asking questions in [discussion](https://github.com/Xuanwo/formwork/discussions/new?category=q-a).
+Submit [issues](https://github.com/sundy-li/formwork/issues/new/choose) for bug report or asking questions in [discussion](https://github.com/sundy-li/formwork/discussions/new?category=q-a).
 
 #### License
 
